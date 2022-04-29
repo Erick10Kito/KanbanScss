@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Backlog",
+    "items": [
+      {
+        "id": 3,
+        "priority": 1,
+        "title": "Company website redesign.",
+        "chat": 1,
+        "attachment": 2,
+        "assignees": [
+          {
+            "avt": "https://randomuser.me/api/portraits/men/75.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "In Progress",
+    "items": []
+  },
+  {
+    "name": "In Review",
+    "items": []
+  },
+  {
+    "name": "Completed",
+    "items": []
+  }
+]
